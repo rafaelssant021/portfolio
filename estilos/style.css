@@ -24,7 +24,7 @@ body.escuro{
   --destaque:#813b98 ;
   --destaque-inverso:#c87fec ;
   --fundo-card:#1d1c1c ;
-  --sombra-card: rgba(159, 59, 159, 0.345);
+  --sombra-card: rgba(159, 59, 159, 0.174);
 }
 
 body{
@@ -150,7 +150,7 @@ article{
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
-  box-shadow: -2px 3px 15px 0px var(--sombra-card);
+  box-shadow: -2px 3px 13px 0px var(--sombra-card);
 }
 
 article h2{
